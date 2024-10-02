@@ -3,5 +3,19 @@
 <DirectoryEntry>
 <Name>IT Helpdesk</Name>
 <Telephone>711</Telephone>
+<Name>Medical Centre Group</Name>
+<Telephone>860</Telephone>
+<Name>Safeguarding</Name>
+<Telephone>855</Telephone>
+<Name>Catering</Name>
+<Telephone>861</Telephone>
+<Name>Staffroom</Name>
+<Telephone>862</Telephone>
+<Name>Wilberforce</Name>
+<Telephone>858</Telephone>
+<Name>Accounts</Name>
+<Telephone>852</Telephone>
+<Name>Admissions</Name>
+<Telephone>853</Telephone>
 </DirectoryEntry>
 </YealinkIPPhoneDirectory>
